@@ -1,0 +1,11 @@
+#/bin/sh
+
+ps -axm -o %mem,rss,pid,comm | grep "Google Drive\
+\|JetBrains Toolbox\
+\|ZoomOpener\
+\|wunderkinder\
+\|Skype Helper\
+\|docker\
+\|Avira\
+\|onepassword\
+\|expressvpnd"
