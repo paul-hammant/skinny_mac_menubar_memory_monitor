@@ -1,4 +1,4 @@
-#/bin/sh
+#!/bin/bash
 
 ps -axm -o %mem,rss,pid,comm | grep "Google Drive\
 \|JetBrains Toolbox\
