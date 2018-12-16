@@ -13,7 +13,7 @@ smmmm
 Or run it from GitHub's raw server:
 
 ```
-curl https://raw.githubusercontent.com/paul-hammat/skinny_mac_menubar_memory_monitoring/master/smmmm | bash -s
+curl https://raw.githubusercontent.com/paul-hammant/skinny_mac_menubar_memory_monitoring/master/smmmm | bash -s
 ```
 
 ## MenuBar apps looked for
@@ -24,6 +24,7 @@ Rough order to memory requirements (descending)
 1. Skype Helper - voice/video conf calls (Electron framework; 250 MiB)
 1. Avira Anti Virus (Qt + C++; 160 MiB)
 1. JetBrains Toolbox - downloads updates for Intellij, PyCharm, etc (Qt+QML+C++; 30-90 MiB)
+1. Jing - Techsmith's screen-cap tool (Objective-C, 78 MiB)
 1. Wunderlst - keeps TODO lists  (21 MiB)
 1. 1Password password manager (7 MiB or so)
 1. Express VPN (13 MiB or so)

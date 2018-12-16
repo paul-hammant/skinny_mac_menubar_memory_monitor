@@ -6,7 +6,8 @@ ps -axm -o %mem,rss,pid,comm | grep "Google Drive\
 \|wunderkinder\
 \|Skype Helper\
 \|docker\
-\|Avira\
+\|Jing\
+\|Avira\	
 \|DrCleaner\
 \|onepassword\
 \|expressvpnd"
