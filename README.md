@@ -30,13 +30,12 @@ Rough order to memory requirements (descending)
 1. Google Drive file sync (Chromium Embedded; 90 MiB)
 1. JetBrains Toolbox - downloads updates for Intellij IDEA, PyCharm, etc (Qt+QML+C++; 30-90 MiB)
 1. Jing - Techsmith's screen-cap tool (Objective-C, 78 MiB)
-1. Wunderlist - keeps TODO lists  (21 MiB)
-1. 1Password password manager (7 MiB or so)
-1. Express VPN (13 MiB or so)
-1. AutoOnlineUpdater - Fujitsu ScanSnap updater (31 MiB)
-1. Microsoft AutoUpdate - Updates MS-Office apps (31 MiB)
-1. Dr Cleaner - cleans away cruft from machine when needed
 1. Get Plain Text - removes formatting from rich text (61 MiB)
+1. Microsoft AutoUpdate - Updates MS-Office apps (36 MiB)
+1. AutoOnlineUpdater - Fujitsu ScanSnap updater (31 MiB)
+1. Wunderlist - keeps TODO lists  (21 MiB)
+1. Dr Cleaner - cleans away cruft from machine when needed
+1. Express VPN (13 MiB or so)1. 1Password password manager (7 MiB or so)
 1. ZoomOpener - launches Zoom.us for video conf calls (6 MiB)
 
 (1 MiB = 1024 * 1024 bytes, ref [wikipedia article](https://en.wikipedia.org/wiki/Mebibyte))

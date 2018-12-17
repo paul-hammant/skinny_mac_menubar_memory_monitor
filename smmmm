@@ -9,6 +9,7 @@ ps -axm -o %mem,rss,pid,comm | grep "Google Drive\
 \|Jing\
 \|Avira\
 \|AutoOnlineUpdater\
+\|Microsoft AutoUpdate\
 \|Get Plain Text\
 \|DrCleaner\
 \|onepassword\
