@@ -33,6 +33,8 @@ Rough order to memory requirements (descending)
 1. Wunderlist - keeps TODO lists  (21 MiB)
 1. 1Password password manager (7 MiB or so)
 1. Express VPN (13 MiB or so)
+1. AutoOnlineUpdater - Fujitsu ScanSnap updater (31 MiB)
+1. Microsoft AutoUpdate - Updates MS-Office apps (31 MiB)
 1. Dr Cleaner - cleans away cruft from machine when needed
 1. Get Plain Text - removes formatting from rich text (61 MiB)
 1. ZoomOpener - launches Zoom.us for video conf calls (6 MiB)

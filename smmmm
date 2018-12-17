@@ -8,6 +8,7 @@ ps -axm -o %mem,rss,pid,comm | grep "Google Drive\
 \|docker\
 \|Jing\
 \|Avira\
+\|AutoOnlineUpdater\
 \|Get Plain Text\
 \|DrCleaner\
 \|onepassword\
